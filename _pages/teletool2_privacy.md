@@ -1,5 +1,5 @@
 ---
-permalink: /teletool2/privacy
+permalink: /portfolio/teletool2/privacy
 title: "Privacy Policy of TeleTool2"
 author_profile: False
 redirect_from: 
