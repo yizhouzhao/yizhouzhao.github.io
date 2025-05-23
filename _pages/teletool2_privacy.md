@@ -12,9 +12,9 @@ This privacy policy applies to the TeleTool2 app (hereby referred to as "Applica
 
 The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
 
-**Does the Application collect precise real time location information of the device?**
+**Does the Application collect information of the device?**
 
-This Application does not collect precise information about the location of your mobile device.
+This Application does not collect any information from your device. It does not access, store, or transmit any personal data, device identifiers, or usage information. All operations are performed locally on your device, and no device information is collected or shared with the Service Provider or any third parties.
 
 **Do third parties see and/or have access to information obtained by the Application?**
 
