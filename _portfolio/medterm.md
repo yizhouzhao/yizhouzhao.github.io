@@ -1,5 +1,5 @@
 ---
-title: "MedTerm"
+title: "WestMedTerm"
 excerpt: "An app to help memorize West Medical Terminology<br/><img src='/images/projects/medterm/icon.png' width=200 height=200>"
 author_profile: False
 collection: portfolio
@@ -7,7 +7,7 @@ collection: portfolio
 
 <img src='/images/projects/medterm/icon.png' width=300 height=300>
 
-MedTerm is a comprehensive medical terminology learning application designed to help students and healthcare professionals master West Medical Terminology effectively. The app provides an interactive and engaging way to study medical terms through flashcards, and spaced repetition techniques. With a user-friendly interface and extensive database of medical terms, MedTerm makes learning complex medical vocabulary accessible.
+WestMedTerm is a comprehensive medical terminology learning application designed to help students and healthcare professionals master West Medical Terminology effectively. The app provides an interactive and engaging way to study medical terms through flashcards, and spaced repetition techniques. With a user-friendly interface and extensive database of medical terms, MedTerm makes learning complex medical vocabulary accessible.
 
 Screenshots
 -------

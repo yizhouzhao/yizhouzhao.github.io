@@ -1,12 +1,12 @@
 ---
 permalink: /portfolio/medterm/privacy
-title: "Privacy Policy of MedTerm"
+title: "Privacy Policy of WestMedTerm"
 author_profile: False
 redirect_from: 
   - /privacy-policy.html
 ---
 
-This privacy policy applies to the MedTerm app (hereby referred to as "Application") for mobile devices that was created by Yizhou Zhao (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the WestMedTerm app (hereby referred to as "Application") for mobile devices that was created by Yizhou Zhao (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **What information does the Application obtain and how is it used?**
 
@@ -46,6 +46,6 @@ By using the Application, you are consenting to the processing of your informati
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at [yizhou_zhao@berkeley.edu](yizhou_zhao@berkeley.edu) or [yizhou.zhao112@uewm.edu](yizhou_zhao@berkeley.edu)
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at yizhou_zhao@berkeley.edu or yizhou.zhao112@uewm.edu
 
 * * *
