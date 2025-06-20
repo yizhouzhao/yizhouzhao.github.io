@@ -1,6 +1,6 @@
 ---
 title: "TeleTool2"
-excerpt: "The next generation of Teleoperation Tool for iPhone<br/><img src='/images/projects/teletool2.png' width=200 height=200>"
+excerpt: "The next generation of Teleoperation Tool for iPhone<br/><img src='/images/projects/teletool2/teletool2.png' width=200 height=200>"
 author_profile: False
 collection: portfolio
 ---
